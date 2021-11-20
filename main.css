@@ -84,3 +84,9 @@ footer p {
     width: 315px;
 
 }
+
+
+*{
+    box-sizing: border-box;
+    padding: 25px;
+}
